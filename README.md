@@ -1,3 +1,3 @@
-## KOTLIN-BEGINNER
+## ANDROID-BEGINNER
 
-This is an exercise for Kotlin beginners
+This is an exercise for Android Beginner
